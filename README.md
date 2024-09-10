@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nikita-pavepilot
-- 👀 I’m interested in Generative AI and its uses in optimizing our everyday tasks
-- 🌱 I’m currently learning building video models to create AI-powered brand videos for e-commerce products
+- 👋 Hi, I’m @nikita-pavepilot Founder of PavePilot AI
+- 👀 I’m interested in Generative AI and its uses in optimizing video generation
+- 🌱 I’m currently building a workflow of different AI models to create AI-powered brand videos for e-commerce products
 - 💞️ I’m looking to collaborate on training video models to specific brand content
-- 📫 How to reach me - Contact me from the website https://pavepilot.ai
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: We are an early stage AI startup and looking for collaborators to help with Generative AI models, backend and frontend projects in form of interns and contract employees. Reach out if you'd like to join a startup with a creative mission.
+- 📫 Contact me from the website https://pavepilot.ai to discuss about the space or to get early access to PavePilot AI
+- ⚡ Fun fact: We are an early-stage AI startup and looking for collaborators to help with Generative AI models, backend and frontend projects in form of interns and contract employees. Reach out if you'd like to join a startup with a creative mission.
